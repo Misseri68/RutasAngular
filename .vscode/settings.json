@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "**/menu": true,
+        "**/cine": true,
+        "**/home": true,
+        "**/numero-doble": true,
+        "**/musica": true,
+        "**/notfound": true,
+        "src/app/app.component.ts": true
+    }
+}
